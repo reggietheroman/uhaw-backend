@@ -17,5 +17,5 @@ This is my first project implementing clean architecture and I would appreciate 
 1. This video by Bill Sourour of Dev Mastery [Using Clean Architecture in Node.js with MongoDB and Express](https://www.youtube.com/watch?v=CnailTcJV_U).
 2. The [github repo](https://github.com/dev-mastery/comments-api) of the above video.
 3. Another [github repo](https://github.com/jbuget/nodejs-clean-architecture-app) showing clean architecture but using Hapi.js instead of Express.js.
-4. The image in this [stacoverflow](https://stackoverflow.com/questions/57247085/correct-management-of-repository-in-clean-architecture) question is good. It also answers the question of how to use the repository pattern in clean architecture.
+4. The image in this [stackoverflow](https://stackoverflow.com/questions/57247085/correct-management-of-repository-in-clean-architecture) question is good. It also answers the question of how to use the repository pattern in clean architecture.
 
